@@ -1,5 +1,6 @@
 #Simple Panel v.0.1 Copyright (c) 2023 JJ Posti <techtimejourney.net> This program comes with ABSOLUTELY NO WARRANTY; for details see: http://www.gnu.org/copyleft/gpl.html.  This is free software, and you are welcome to redistribute it under GPL Version 2, June 1991")
 
+![panel](https://github.com/postman721/simple_panel/assets/29865797/4f318501-9659-4f13-a771-195e3d9c9dcf)
 
 Dependencies
 
